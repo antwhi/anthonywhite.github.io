@@ -16,4 +16,4 @@ This will create the build directory, run cmake and make tests.
 
 5. When you're ready to submit, run the submit script.
 
-The script will prompt you to enter the lab number and then run the appropriate commands.
+When ran, the script will prompt you to enter the lab number and then run the appropriate commands.
