@@ -8,8 +8,12 @@
 > chmod +x lab_build.sh lab_submit.sh
 
 
-4. Run the script by entering its name in the terminal:
+4. When you've finished the lab, run the build script by entering its name in the terminal:
 
-> ./<script_name>.sh
+> ./lab_build.sh
+
+This will create the build directory, run cmake and make tests.
+
+5. When you're ready to submit, run the submit script.
 
 The script will prompt you to enter the lab number and then run the appropriate commands.
